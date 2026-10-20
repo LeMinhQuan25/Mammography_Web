@@ -1,0 +1,12 @@
+{
+  "selected_checkpoint": {
+    "tag": "robust_best_auc",
+    "path": "/home/ntp.ai-researcher/notebooks/Mammography/_mammo_server/checkpoints_v26_e4e03230_official_split/roi_clinical_sparse_v26_e4e03230_official_b71de6316ba6/best_joint_model.pt",
+    "epoch": 60,
+    "val_auc": 0.8712406015037594,
+    "val_f1": 0.7428571428571429
+  },
+  "selected_finalization": "checkpoint_as_is_source_refresh_only",
+  "parameter_changing_final_push": false,
+  "note": "Prototype sources refreshed on TRAIN without changing model parameters."
+}

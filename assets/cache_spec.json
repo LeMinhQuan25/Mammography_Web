@@ -1,0 +1,14 @@
+{
+  "dataset": "CBIS-DDSM",
+  "version": "v5_checkpoint_safe",
+  "size_hw": [
+    1536,
+    768
+  ],
+  "geometry": "fullfield_no_crop_aspect_pad",
+  "roi_policy": "native_shape_strict",
+  "intensity": "VOI_MONOCHROME_percentile_0.1_99.9_u8",
+  "official_test_untouched": true,
+  "seed": 24,
+  "val_fraction": 0.1
+}
